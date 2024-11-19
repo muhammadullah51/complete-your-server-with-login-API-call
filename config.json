@@ -1,0 +1,8 @@
+{
+  "default": {
+    "rateLimiterSettings": {
+      "limit": 100,
+      "windowSizeInMillis": 60000
+    }
+  }
+}
